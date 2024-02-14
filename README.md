@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/almusawiaf)
 
 # Ahmad F. Al Musawi
 
@@ -9,9 +10,6 @@ In the captivating realm of network science and graph theory, I am immersed in t
 
 ## Education
 - **Ph.D. student in Computer Science, Virginia Commonwealth University** (Jan 2023 - Current)
-  - *Advisor:* Dr. Preetam Ghosh. Department of Computer Science, School of Engineering
-  - *Topic:* Patient Similarity in Temporal Clinical-Based Graphs
-
 - **M. Sc. in Computer Science, Virginia Commonwealth University** (May 2013)
   - *Advisor:* Dr. Preetam Ghosh. Department of Computer Science, School of Engineering
   - *Title:* Complex Network Growing Model Using Downlink Motifs
