@@ -1,7 +1,7 @@
 # Ahmad F. Al Musawi
 
 ✉️ almusawiaf@vcu.edu, almusawiaf@utq.edu.iq   
-🔗 [ResearchGate](https://www.researchgate.net/profile/Ahmad_Al_Musawi) | [Google Scholar](https://scholar.google.com/citations?user=QJYj-n4AAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/ahmad-f-al-musawi-577410141/) | [YouTube](https://www.youtube.com/@AhmadFAlMusawi) | 
+🔗 [ResearchGate](https://www.researchgate.net/profile/Ahmad_Al_Musawi) | [Google Scholar](https://scholar.google.com/citations?user=QJYj-n4AAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/ahmad-f-al-musawi-577410141/) | [YouTube](https://www.youtube.com/@AhmadFAlMusawi) 
 
 ## Me
 In the captivating realm of network science and graph theory, I am immersed in the pursuit of understanding disease behavior among patients within temporal and dynamic clinical-based graphs. My journey is a symphony of cutting-edge technologies, where graph neural networks and network science orchestrate healthcare innovations. My expertise extends to complex network models, machine learning, minor in bioinformatics. With a passion for discovery and a commitment to utilizing knowledge for tangible benefits, I seamlessly blend research, data-driven insights, and teaching. I am poised to craft a future where pioneering insights and innovative solutions in computer science and healthcare transform lives and communities.
