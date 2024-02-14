@@ -24,9 +24,9 @@ In the captivating realm of network science and graph theory, I am immersed in t
   - *Responsibilities:* Engaging in Computer Science research, delivering classroom instruction
 
 ## Projects
-- Developed a website information system for vehicle registration and traffic violation tickets for the province of Thi Qar in 2013.
-- Designed and implemented a website information system for the Museum of Thi Qar, province of Thi Qar, in 2015.
-- Collaborated on the design of the first official website for the University of Thi Qar in 2005, creating main interfaces using Macromedia Flash.
+- Developed a website system for handling vehicle registrations and traffic violation tickets in Thi Qar province in 2013.
+- Created a website system for the Museum of Thi Qar, enhancing its digital presence and functionality within the province in 2015.
+- Collaborated on designing the first official website for the University of Thi Qar in 2005, focusing on user-friendly interfaces using Macromedia Flash.
 - Led the development and implementation of the "University of Thi Qar Human Resources and Salaries System," a database application system, at the University of Thi Qar, College of Science, in 2006.
 
 ## Skills
