@@ -17,7 +17,7 @@ In the captivating realm of network science and graph theory, I am immersed in t
   - *Title:* 3D Game Programming Using Visual Basic 6.0 and DirectX 8.0
 
 ## Employment
-- **Lecturer, Computer Science Department, University of Thi Qar** (2013 - 2023)
+- **Senior Lecturer (U.S. Associate Professor), Computer Science Department, University of Thi Qar** (2013 - 2023)
   - *Responsibilities:* Engaging in Computer Science research, delivering classroom instruction, mentoring and supervising students, minor administrative tasks
 
 - **Research Assistant and Programmer, University of Thi Qar** (2005 - 2013)
