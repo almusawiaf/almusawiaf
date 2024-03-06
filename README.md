@@ -1,5 +1,3 @@
-![image title](https://rushter.com/counter.svg)
-
 # Ahmad F. Al Musawi
 
 ✉️ almusawiaf@vcu.edu, almusawiaf@utq.edu.iq   
