@@ -4,7 +4,7 @@
 🔗 [ResearchGate](https://www.researchgate.net/profile/Ahmad_Al_Musawi) | [Google Scholar](https://scholar.google.com/citations?user=QJYj-n4AAAAJ&hl=en&oi=ao) | [LinkedIn](https://www.linkedin.com/in/ahmad-f-al-musawi-577410141/) | [YouTube](https://www.youtube.com/@AhmadFAlMusawi) 
 
 ## Education
-- **Ph.D. student in Computer Science, Virginia Commonwealth University** (Jan 2023 - Current)
+- **Ph.D. candidate in Computer Science, Virginia Commonwealth University** (Jan 2023 - Current)
 - **M. Sc. in Computer Science, Virginia Commonwealth University** (May 2013)
   - *Advisor:* Dr. Preetam Ghosh. Department of Computer Science, School of Engineering
   - *Title:* Complex Network Growing Model Using Downlink Motifs
